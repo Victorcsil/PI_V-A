@@ -87,6 +87,9 @@ A correlação entre o número de dias sem chuva e as queimadas reforça a impor
 
 ### Total de Queimadas por Bioma
 
+![Screenshot](https://cdn.discordapp.com/attachments/1254451336682930226/1291790983654150144/image.png?ex=6701619a&is=6700101a&hm=cf4456d8ca64bb35c4194aea4e2df8ff6e8624c6860931615fdb1a455296036c&)
+
+
 - **Amazônia**: 87.054 focos (maior devastação).
 - **Cerrado**: 56.107 focos (predisposição às queimadas devido ao clima).
 - **Mata Atlântica**: 14.385 focos.
